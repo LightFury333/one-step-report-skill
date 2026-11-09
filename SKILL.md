@@ -3,9 +3,12 @@ name: one-step-report
 description: 将临床研究论文和补充材料整理成中文文献组会汇报，制作可编辑 PowerPoint、逐页填充 Word 和内容更丰富的演讲 Word。适用于整套制作，以及按同一页序修订已有组会三件套。
 metadata:
   version: "v0.1"
+  provenance: "100% AI-built"
 ---
 
 # One-Step Report
+
+**本技能完全由 AI 打造（100% AI-built）。** 用户提供目标与反馈，AI 制作技能流程、模板、文档和检查脚本，并完成验收。
 
 面向熟悉临床医学的组会听众。用户给出一篇论文时，默认交付可编辑 PPTX、逐页填充稿 DOCX、演讲人汇报稿 DOCX。用户只要求局部改动时，从已认可的版本修改相应页，同步有关的配套内容。
 
