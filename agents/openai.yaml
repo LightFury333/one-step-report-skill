@@ -1,0 +1,7 @@
+interface:
+  display_name: "One-Step Report"
+  short_description: "把临床论文做成中文组会幻灯片、逐页填充稿和演讲人汇报稿"
+  default_prompt: "请用 $one-step-report 将这篇临床论文和补充材料做成组会 PPT、逐页填充稿和演讲人汇报稿。"
+policy:
+  allow_implicit_invocation: true
+
